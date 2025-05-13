@@ -1,3 +1,4 @@
 # demo
 this is a practice git repository.
-author-sarthak
+<br>
+author-  Sarthak Rana
